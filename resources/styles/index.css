@@ -1,0 +1,31 @@
+.h1{
+    color: maroon;
+    font-size:x-large;
+}
+.title{
+    color: maroon;
+}
+.heading {
+    color: maroon;
+    text-align: left;
+}
+.button {
+    color: #fadcd0;
+    background-color: maroon;
+    border: none;
+    text-align: right;
+    font-size: larger;
+}
+.h2 {
+    color: maroon;
+    font-size:xx-large;
+    
+}
+.table1 {
+    background-color: maroon;
+    color:#fadcd0;
+    font-size:x-large;
+    padding: 7px;
+    text-align: center;
+   
+}
